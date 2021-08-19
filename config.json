@@ -1,6 +1,6 @@
 {
-	"ip":"HaiduciiiiSMP.aternos.me",
+	"ip":"NukeSMPV2.minehut.gg",
 	"port": "25565",
-	"name": "DariadBOTAFK",
-	"auto-night-skip":"true"
+	"name": "NukeBOT",
+	"auto-night-skip":"false"
 }
